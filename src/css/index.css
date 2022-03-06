@@ -610,7 +610,7 @@ footer{
 }
 
 .section{
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
 }
 
 .nav .hamburger{
